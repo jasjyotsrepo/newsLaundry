@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>759413760137-l1mvec0nc5f235tors1e6b2vrfkkbb46.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.759413760137-l1mvec0nc5f235tors1e6b2vrfkkbb46</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBh28lT9-SH2H8zNjHzTKL8ouC9DelL7aw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>759413760137</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.newsLaundry.login</string>
+	<key>PROJECT_ID</key>
+	<string>newslaundry-login</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newslaundry-login.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:759413760137:ios:59dd64d70db2810534e658</string>
+</dict>
+</plist>
